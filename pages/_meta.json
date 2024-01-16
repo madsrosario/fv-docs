@@ -1,15 +1,17 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "Introduksjon",
+  "innlogging": "Innlogging",
+  "annet": "Annet...",
+  "funksjoner": "Funksjoner",
+
   "about": {
-    "title": "About",
+    "title": "Om",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "Kontakt ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://fellesverktoy.no/kontakt",
     "newWindow": true
   }
 }
